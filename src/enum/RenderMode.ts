@@ -1,0 +1,1 @@
+export type RenderMode = "3D" | "2D"
